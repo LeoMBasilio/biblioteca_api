@@ -1,0 +1,6 @@
+# Dependências do projeto. Instale com:  pip install -r requirements.txt
+Django>=5.0,<6.0
+djangorestframework>=3.15
+djangorestframework-simplejwt>=5.3
+drf-spectacular>=0.27
+django-filter>=24.1
